@@ -14,8 +14,6 @@ Do not create a layout file for splash activity. Instead, specify activity’s t
 
 # Second Approcah 
 Adding animations to your android app makes it more fun and interesting as compared to static text or pictures. The easiest way to do that is using a 3rd party library  [LottieFiles](https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-animations-in-android-app) by airbnb.
- <H4>Some helpful resources</H4>  
- https://stackoverflow.com/questions/61783132/lottie-animation-in-native-android-splash-screen
 
 # Third Approach
 # Liquid Swipe
@@ -103,7 +101,9 @@ Cuberto Design, info@cuberto.com
 
 Liquid Swipe is available under the MIT license. See the LICENSE file for more info.
 
-
+ <H4>Some helpful resources</H4>  
+ https://stackoverflow.com/questions/61783132/lottie-animation-in-native-android-splash-screen
+ https://www.youtube.com/watch?v=lyIbdU93vGU
 
 
 
